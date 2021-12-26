@@ -2,6 +2,7 @@
     "node": {
         "fs": "empty"
     },
+    "homepage": ".",
     "name": "fi",
     "version": "0.1.0",
     "private": true,
